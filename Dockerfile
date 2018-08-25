@@ -1,5 +1,6 @@
 FROM debian:9.4-slim
-LABEL Description="sysbench from source"
+LABEL maintainer="Joel Luth (joelluth@gmail.com)"
+LABEL description="sysbench from source"
 
 #ARG DEBIAN_FRONTEND=noninteractive
 
